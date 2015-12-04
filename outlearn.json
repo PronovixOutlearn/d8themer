@@ -14,7 +14,7 @@
         {"module" : "setup-tools"},
         {"module" : "layout-regions"},
         {"module" : "theming-content"},
-        {"module" : "intro-css-framework"}
+        {"module" : "intro-css-frameworks"}
       ]
     }
   ],
