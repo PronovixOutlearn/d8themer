@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "theming_content",
+"name" : "theming-content",
 "version" : "0.1",
 "title" : "Theming content",
 "description" : "Drupal 8 Theming, Part 4",

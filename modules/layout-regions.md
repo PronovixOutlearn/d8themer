@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "layout_regions",
+"name" : "layout-regions",
 "version" : "0.1",
 "title" : "Layout and regions",
 "description" : "Drupal 8 Theming, Part 3",

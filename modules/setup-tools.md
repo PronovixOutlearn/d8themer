@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "setup_tools",
+"name" : "setup-tools",
 "version" : "0.1",
 "title" : "Setup and tools",
 "description" : "Drupal 8 Theming, Part 2",

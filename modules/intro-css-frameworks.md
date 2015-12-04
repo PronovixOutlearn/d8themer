@@ -1,6 +1,6 @@
 <!--
 {
-"name" : "intro_css_frameworks",
+"name" : "intro-css-frameworks",
 "version" : "0.1",
 "title" : "Introducing css frameworks",
 "description" : "Drupal 8 Theming, Part 5",
