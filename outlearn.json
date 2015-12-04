@@ -10,15 +10,21 @@
       "coverImage" : "./assets/rain-455124_1920.jpg",
       "coverColor" : "#28a9e0",
       "pages" : [
-        {"page" : "./pages/welcome.md"},
-        {"module" : "first-steps"},
-        {"page" : "./pages/closing.md"}
+        {"module" : "install"},
+        {"module" : "setup_tools"},
+        {"module" : "layout_regions"},
+        {"module" : "theming_content"},
+        {"module" : "intro_css_framework"}
       ]
     }
   ],
 
   "modules" : [
-    {"olm" : "./modules/first-steps.md"}
+    {"olm" : "./modules/install.md"},
+    {"olm" : "./modules/setup_tools.md"},
+    {"olm" : "./modules/layout_regions.md"},
+    {"olm" : "./modules/theming_content.md"},
+    {"olm" : "./modules/intro_css_framework.md"}
   ],
 
   "assets" : [
