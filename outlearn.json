@@ -21,10 +21,10 @@
 
   "modules" : [
     {"olm" : "./modules/install.md"},
-    {"olm" : "./modules/setup_tools.md"},
-    {"olm" : "./modules/layout_regions.md"},
-    {"olm" : "./modules/theming_content.md"},
-    {"olm" : "./modules/intro_css_framework.md"}
+    {"olm" : "./modules/setup-tools.md"},
+    {"olm" : "./modules/layout-regions.md"},
+    {"olm" : "./modules/theming-content.md"},
+    {"olm" : "./modules/intro-css-framework.md"}
   ],
 
   "assets" : [
