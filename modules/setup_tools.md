@@ -12,7 +12,7 @@
 
 <!-- @section, "title" : "Part 01 - Theme Setup" -->
 		
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "	https://www.youtube.com/watch?v=a9u0B1F650U	" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=a9u0B1F650U" -->
 
 In this episode of Drupal 8 Theming tutorial series we are going to setup our theme, add our css file to it, remove some default css files and add our main JavaScript file.
 Drupal uses yml files for dealing with libraries (css and js), this is great. But the setup of those files in your theme isn't exactly intuitive, but it's not hard either.
