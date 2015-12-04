@@ -12,7 +12,7 @@
 
 <!-- @section, "title" : "Part 01 - Theme Setup" -->
 		
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=a9u0B1F650U" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/a9u0B1F650U" -->
 
 In this episode of Drupal 8 Theming tutorial series we are going to setup our theme, add our css file to it, remove some default css files and add our main JavaScript file.
 Drupal uses yml files for dealing with libraries (css and js), this is great. But the setup of those files in your theme isn't exactly intuitive, but it's not hard either.
@@ -20,7 +20,7 @@ In this tutorial you will learn how to register your theme and add css and JavaS
 		
 <!-- @section, "title" : "Part 02 - Disable Cache, Enable Twig Debug" -->
 		
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=rRsOxSuJ4OU" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/rRsOxSuJ4OU" -->
 		
 In this episode of Drupal 8 Theming we are going to learn how to disable Drupal 8 cache and enable Twig debug mode so that we can develop our theme without having to clear the cache all the time.
 This all sounds very simple but as you will see in this video it's actually very convoluted if you want to do it the right way.
@@ -29,12 +29,12 @@ You will also learn how to enable twig debug - one of the Drupal 8 killer featur
 		
 <!-- @section, "title" : "Part 03 - Gulp.js, Sass, LiveReload" -->
 		
-<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=vatnNkOKZ7o" -->
+<!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/vatnNkOKZ7o" -->
 
 In this episode of Drupal 8 Theming tutorial series we are going to setup our theme to work with Sass, Gulp.js and Live Reload.
 In this episode we are going to setup our Drupal 8 theme to work with Gulp.js task runner and make it compile our sass files, minify our JavaScript files and watch for changes that we do and automatically refresh the browser for us.
 This theme is going to do pretty much the same thing as the Olympos theme for WordPress. You can check out the video about Olympos theme here - 
-https://www.youtube.com/watch?v=UtZ9LXoJ_YQ
+https://www.youtube.com/embed/UtZ9LXoJ_YQ
 Code used in this tutorial:
 https://github.com/ivandoric/d8theming/releases/tag/3
 http://watch-learn.com/video-tutorials/drupal-8-theming-part-03-gulp-js-sass-livereload/
