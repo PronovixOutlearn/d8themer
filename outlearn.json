@@ -11,10 +11,10 @@
       "coverColor" : "#28a9e0",
       "pages" : [
         {"module" : "install"},
-        {"module" : "setup_tools"},
-        {"module" : "layout_regions"},
-        {"module" : "theming_content"},
-        {"module" : "intro_css_framework"}
+        {"module" : "setup-tools"},
+        {"module" : "layout-regions"},
+        {"module" : "theming-content"},
+        {"module" : "intro-css-framework"}
       ]
     }
   ],
@@ -24,7 +24,7 @@
     {"olm" : "./modules/setup-tools.md"},
     {"olm" : "./modules/layout-regions.md"},
     {"olm" : "./modules/theming-content.md"},
-    {"olm" : "./modules/intro-css-framework.md"}
+    {"olm" : "./modules/intro-css-frameworks.md"}
   ],
 
   "assets" : [

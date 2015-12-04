@@ -30,7 +30,7 @@ If you tuned in to these videos later you probably already have the official rel
 This is valuable knowledge to have because as of yet Drupal doesn't have automatic updates of the core.
 http://watch-learn.com/video-tutorials/drupal-8-theming-part-05-let-s-update-drupal-8/
 
-<!-- @section, "title" : "Part 06 - Theming the Header	" -->
+<!-- @section, "title" : "Part 06 - Theming the Header" -->
 		
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/watch?v=jLlXR-ONyy8" -->
 
