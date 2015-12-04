@@ -7,7 +7,7 @@
       "title" : "Drupal 8: Developing your first themes",
       "description" : "Get started with the basics of theme development on Drupal 8, the most successful open-source CMS in the past decade.",
       "privacy" : "public",
-      "coverImage" : "./assets/drupal 8 logo inline RGB 300.jpg",
+      "coverImage" : "./assets/rain-455124_1920.jpg",
       "coverColor" : "#28a9e0",
       "pages" : [
         {"page" : "./pages/welcome.md"},
@@ -23,9 +23,9 @@
 
   "assets" : [
     {
-      "name" : "d8logo-inline",
+      "name" : "rain-inline",
       "contentType" : "image/jpeg",
-      "location" : "assets/drupal 8 logo inline RGB 300.jpg"
+      "location" : "assets/rain-455124_1920.jpg"
     }
   ]
 }
