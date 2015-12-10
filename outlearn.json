@@ -14,7 +14,10 @@
         {"module" : "setup-tools"},
         {"module" : "layout-regions"},
         {"module" : "theming-content"},
-        {"module" : "intro-css-frameworks"}
+        {"module" : "intro-css-frameworks"},
+        {"module" : "layout-regions-revisited"},
+        {"module" : "taxonomy-dropdown"},
+        {"module" : "views-fields"}
       ]
     }
   ],
@@ -24,7 +27,10 @@
     {"olm" : "./modules/setup-tools.md"},
     {"olm" : "./modules/layout-regions.md"},
     {"olm" : "./modules/theming-content.md"},
-    {"olm" : "./modules/intro-css-frameworks.md"}
+    {"olm" : "./modules/intro-css-frameworks.md"},
+    {"olm" : "./modules/layout-regions-revisited.md"},
+    {"olm" : "./modules/taxonomy-dropdown.md"},
+    {"olm" : "./modules/views-fields.md"}
   ],
 
   "assets" : [
