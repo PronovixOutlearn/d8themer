@@ -2,7 +2,7 @@
 
 Greetings! Welcome to Developing your first Drupal 8 theme!
 
-This path is based on the video series from watch-learn.com. To get the most out of this path requires you to have some knowledge in frontend development. Some Drupal 7 theming experience will also help you to better understand the lessons although it's not essential.
+This path is based on the video series from [Watch and Learn](http://watch-learn.com/). To get the most out of this path you should have some knowledge in frontend development. Some Drupal 7 theming experience will also help you to better understand the lessons although it's not essential.
 
 Good luck!
 
