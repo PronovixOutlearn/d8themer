@@ -55,6 +55,8 @@ http://watch-learn.com/video-tutorials/drupal-8-theming-part-12-images-and-image
 		
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/Hz9vTfV-a2I" -->
 
+<!-- @task,  "text" : "Add an image field to any of your content types. Create an image style and use it to display the images in the required size." -->
+
 <!-- @section, "title" : "Part 13 - Kint, Arrays, Twig, Foreach, If" -->
 
 In this episode of Drupal 8 Theming I'm going to show you a lot of stuff - how to work with Kint, how to print out data, how to make if statements with Twig and much more.
@@ -86,3 +88,5 @@ All of this can be accomplished by using Reference Fields, and you will see exac
 http://watch-learn.com/video-tutorials/drupal-8-theming-part-15-reference-fields/
 		
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/rnHEnw3ANpg" -->
+
+<!-- @task,  "text" : "Add a reference field to one of your content types that enables you to assign contents from another content type to your conents." -->

@@ -17,6 +17,8 @@ Drupal uses yml files for dealing with libraries (css and js), this is great. Bu
 In this tutorial you will learn how to register your theme and add css and JavaScript files to your theme.
 		
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/a9u0B1F650U" -->
+
+<!-- @task,  "text" : "Create a new theme and enable it." -->
 		
 <!-- @section, "title" : "Part 02 - Disable Cache, Enable Twig Debug" -->
 

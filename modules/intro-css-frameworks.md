@@ -20,3 +20,5 @@ https://github.com/ivandoric/d8theming/releases/tag/16
 http://watch-learn.com/video-tutorials/drupal-8-theming-part-16-working-with-css-frameworks/
 		
 <!-- @asset, "contentType": "outlearn/video", "provider": "youtube", "url": "https://www.youtube.com/embed/6l_sNw04wyU" -->
+
+<!-- @task,  "text" : "Create a new theme and integrate it with Bootstrap." -->
