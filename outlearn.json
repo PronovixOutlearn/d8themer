@@ -10,11 +10,18 @@
       "coverImage" : "./assets/rain-455124_1920.jpg",
       "coverColor" : "#28a9e0",
       "pages" : [
+        {"page" : "./pages/welcome.md"},
         {"module" : "install"},
         {"module" : "setup-tools"},
+        {"page" : "./pages/base-custom.md"},
         {"module" : "layout-regions"},
         {"module" : "theming-content"},
-        {"module" : "intro-css-frameworks"}
+        {"module" : "intro-css-frameworks"},
+        {"page" : "./pages/frameworks.md"},
+        {"module" : "layout-regions-revisited"},
+        {"module" : "taxonomy-dropdown"},
+        {"module" : "views-fields"},
+        {"page" : "./pages/closing.md"}
       ]
     }
   ],
@@ -24,7 +31,10 @@
     {"olm" : "./modules/setup-tools.md"},
     {"olm" : "./modules/layout-regions.md"},
     {"olm" : "./modules/theming-content.md"},
-    {"olm" : "./modules/intro-css-frameworks.md"}
+    {"olm" : "./modules/intro-css-frameworks.md"},
+    {"olm" : "./modules/layout-regions-revisited.md"},
+    {"olm" : "./modules/taxonomy-dropdown.md"},
+    {"olm" : "./modules/views-fields.md"}
   ],
 
   "assets" : [

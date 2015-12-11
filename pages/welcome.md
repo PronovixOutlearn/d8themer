@@ -2,7 +2,9 @@
 
 Greetings! Welcome to Developing your first Drupal 8 theme!
 
-We have put together this learning path for experienced Drupal 7 themers.
+In this Drupal 8 tutorial series we are going to make a fully functional Drupal 8 theme from scratch without the help of any kind of starter themes or child themes. 
+
+This path is based on the video series from [Watch and Learn](http://watch-learn.com/). To get the most out of this path you should have some knowledge in frontend development. Some Drupal 7 theming experience will also help you to better understand the lessons although it's not essential.
 
 Good luck!
 
