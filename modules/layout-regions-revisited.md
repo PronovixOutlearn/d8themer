@@ -12,9 +12,8 @@
 
 <!-- @section, "title" : "Part 17 - Regions and Blocks from Views" -->
 
-In this episode of Drupal 8 Theming we are going to go more in depth with regions, and we are also going to learn how to make custom blocks from Views.
-As per request from one of the viewers of YouTube channel, in this video we are going to go into regions a little bit more in depth. Learn how to make them, how to add blocks to them and take a look at their HTML output.
-But we are also going to learn how you can make custom blocks from your Views and how you can better manipulate them.
+In this episode we are going to go more in depth with regions, and learn how to make custom blocks from Views.
+Learn how to make regions, how to add blocks to them and take a look at their HTML output. We are also going to learn how you can make custom blocks from your Views and how you can better manipulate them.
 Code used in this tutorial:
 https://github.com/ivandoric/d8theming/releases/tag/17
 http://watch-learn.com/video-tutorials/drupal-8-theming-part-17-regions-and-blocks-from-views/
