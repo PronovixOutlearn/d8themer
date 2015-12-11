@@ -12,7 +12,7 @@
 
 <!-- @section, "title" : "Part 16 - Working With CSS Frameworks" -->
 
-In this episode of Drupal 8 Theming we are going to do some actual theming using Zurb Foundation framework.
+In this episode we are going to do some actual theming using the Zurb Foundation framework.
 To use any kind of CSS framework, something like Bootstrap or in our case [Foundation](http://foundation.zurb.com/) we have to be able to control output of our HTML, and specifically CSS classes that are applied on that HTML output. Because almost all of those frameworks depend on those CSS classes to work as expected.
 In this video I'm going to show you how you can add CSS classes to your output in your templates by using *addClass()* function on your attributes. I'm also going to show you how you can add custom CSS classes to your Views output.
 Code used in this tutorial:
